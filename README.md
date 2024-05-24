@@ -1,4 +1,4 @@
-# mini_calculator
+# mini_calculator with Flutter
 This repository contains a simple yet functional calculator app built using Flutter. The app features a clean and intuitive user interface with basic arithmetic operations.
 
 
